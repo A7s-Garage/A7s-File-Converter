@@ -1,0 +1,8 @@
+streamlit
+pandas
+python-docx
+pdfplumber
+Pillow
+striprtf
+reportlab
+fpdf
